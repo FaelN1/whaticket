@@ -1,0 +1,63 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Geral - Co.
+    Whatsapp Id: 1
+    Criação do arquivo de logs: 14/06/2025 10:08:28
+    Selecionado Data de inicio de importação: 14/06/2025 07:45:00 
+    Selecionado Data final da importação: 14/06/2025 10:05:00 
+     
+
+Mensagem 1 de 1
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555185128256@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3A4D31364B61A82247EA"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/30914843_1775353173326103_2515852161415645859_n.enc?ccb=11-4&oh=01_Q5Aa1wFI1ZIcoMO9sXXeieUmiEBKD2gcn4orTI__09lzTsVmFQ&oe=6874C5C6&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "UVt8gKDUunVXLHAoHTwiiKotgaIKYddNSD6jyQDEWXA=",
+      "fileLength": "87462",
+      "seconds": 40,
+      "ptt": true,
+      "mediaKey": "btklAjisHFYDDPqy/4f5oNdm7DMp1g3z3ordSSrAGHc=",
+      "fileEncSha256": "n0FUOz3zJLvHrlmfxh7CjmuVyhpSL4oLmUgFmfVkK0w=",
+      "directPath": "/v/t62.7117-24/30914843_1775353173326103_2515852161415645859_n.enc?ccb=11-4&oh=01_Q5Aa1wFI1ZIcoMO9sXXeieUmiEBKD2gcn4orTI__09lzTsVmFQ&oe=6874C5C6&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1749903990",
+      "streamingSidecar": "PdczwKBF0imIn+3ALblR6Wzh6FE=",
+      "waveform": "Hw4TBQsMDAkKHA4KCgkEIREQFBEJBgUZERcXCw8KFQoHCAIbEBYPEQwFBQMMDQwWCwcGAwgMBgcGBQUEBgUJBg=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "7+qas23b/Q90ANWwIWlGuHdjIFNBzI9yCzqTosWeUqw="
+    }
+  },
+  "messageTimestamp": "1749904031",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1749904032",
+  "userReceipt": [
+    {
+      "userJid": "555194556916@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555185128256@s.whatsapp.net",
+      "receiptTimestamp": "1749904176",
+      "readTimestamp": "0",
+      "playedTimestamp": "0",
+      "pendingDeviceJid": [
+        "555185128256:34@s.whatsapp.net",
+        "555185128256:45@s.whatsapp.net",
+        "555185128256:31@s.whatsapp.net",
+        "555185128256:32@s.whatsapp.net"
+      ],
+      "deliveredDeviceJid": [
+        "555185128256:0@s.whatsapp.net"
+      ]
+    }
+  ],
+  "originalSelfAuthorUserJidString": "555194556916@s.whatsapp.net"
+}>>>>>>>>>>>>>>>>>>> 

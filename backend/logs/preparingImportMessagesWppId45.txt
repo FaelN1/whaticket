@@ -1,0 +1,7 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: Geral  - Lisi
+  Whatsapp Id: 45
+  Criação do arquivo de logs: 21/05/2025 15:31:14
+  Selecionado Data de inicio de importação: 16/01/2025 14:16:00 
+  Selecionado Data final da importação: 21/05/2025 14:15:00 
+   

@@ -1,0 +1,7 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: Comercial 02
+  Whatsapp Id: 29
+  Criação do arquivo de logs: 05/07/2025 19:49:16
+  Selecionado Data de inicio de importação: 01/04/2025 17:34:00 
+  Selecionado Data final da importação: 24/05/2025 17:33:00 
+   

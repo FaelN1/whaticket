@@ -1,0 +1,1708 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: Creative Business
+  Whatsapp Id: 39
+  Criação do arquivo de logs: 29/05/2025 14:55:09
+  Selecionado Data de inicio de importação: 28/05/2025 18:00:00 
+  Selecionado Data final da importação: 29/05/2025 11:00:00 
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:01:56
+  Contato da Mensagem : 120363403465462643@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:56:39
+  Contato da Mensagem : 120363403465462643@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:29:20
+  Contato da Mensagem : 120363403465462643@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:28:57
+  Contato da Mensagem : 120363403465462643@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:28:48
+  Contato da Mensagem : 120363403465462643@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:41:44
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:21:39
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:55:39
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:09:51
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:58:07
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:56:59
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:55:36
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:55:23
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:23:56
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:21:46
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:21:37
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:21:00
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:20:48
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:20:29
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:19:23
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : editedMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:19:10
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:00:15
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:00:11
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:57:59
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:57:39
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:57:36
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:29
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:29
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:28
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:27
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:27
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:26
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:26
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:25
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:25
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:24
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:24
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:23
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:30:30
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:29:43
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:27:56
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:26:46
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:16:56
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:16:38
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:16:24
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:16:14
+  Contato da Mensagem : 120363384829701182@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:03:22
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:01:14
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:48:23
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:47:47
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:39:51
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:38:27
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:37:59
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:36:33
+  Contato da Mensagem : 120363419203072235@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:28:40
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:28:37
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:25:31
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:23:43
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:23:31
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:21:22
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:21:04
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:20:54
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:20:49
+  Contato da Mensagem : 555193843471@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:18:37
+  Contato da Mensagem : 17408799448@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:18:29
+  Contato da Mensagem : 17408799448@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:14:22
+  Contato da Mensagem : 17408799448@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:14:09
+  Contato da Mensagem : 17408799448@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:13:53
+  Contato da Mensagem : 17408799448@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:13:42
+  Contato da Mensagem : 17408799448@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:27:59
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:27:57
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:07:52
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:06:05
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:05:25
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:05:19
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:05:14
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:05:10
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:05:06
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:04:56
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:02:33
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:02:20
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:02:14
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:02:12
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:44:45
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:21:27
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:21:26
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:21:26
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:10:38
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:09:20
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:09:15
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:08:59
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:08:50
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:08:41
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:48:52
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:48:45
+  Contato da Mensagem : 120363023144432644@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:56:27
+  Contato da Mensagem : 120363402906550911@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 07:56:03
+  Contato da Mensagem : 120363402906550911@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 06:52:33
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 06:52:27
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 06:52:27
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:11:37
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:11:34
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:11:32
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:10:49
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:08:58
+  Contato da Mensagem : 120363064422155395@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:38:57
+  Contato da Mensagem : 120363135436221687@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:25:53
+  Contato da Mensagem : 120363135436221687@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:25:23
+  Contato da Mensagem : 120363135436221687@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:23:18
+  Contato da Mensagem : 120363135436221687@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:41:38
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:41:25
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:41:17
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:41:07
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:40:45
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:40:40
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:40:34
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:40:05
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:40:00
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:39:30
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:39:11
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:38:22
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : stickerMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:38:14
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:38:13
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:36:40
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:36:31
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:36:27
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:33:01
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:32:41
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:28:45
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:28:38
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 21:24:03
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:57:34
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:57:09
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:52:34
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:52:25
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:52:21
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:52:06
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : editedMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:51:53
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:51:46
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:42:23
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:42:19
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:42:19
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:41:50
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:40:55
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:40:37
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:39:50
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:39:39
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:39:32
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:38:29
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:37:47
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:37:36
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:36:11
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:36:00
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:31:43
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:29:10
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:29:07
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:27:02
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:26:40
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:26:33
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:26:19
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:26:04
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:25:56
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:25:36
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:25:25
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:24:48
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:24:43
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:23:53
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:23:48
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:23:45
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:23:39
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:22:42
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 20:22:32
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:49:10
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:48:53
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:48:36
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:37:05
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:34:08
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : editedMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:15:26
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:13:55
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:05:18
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:05:12
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:05:02
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : editedMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 19:03:54
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:59:50
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:59:48
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:58:48
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:51:14
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:40:57
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:40:34
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:40:26
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:40:03
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:39:14
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:09:08
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:08:40
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:08:37
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:08:30
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:08:17
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:07:54
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 18:07:26
+  Contato da Mensagem : 120363303844161320@g.us
+  Tipo da mensagem : videoMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:17:07
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:08:33
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : extendedTextMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:07:22
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : editedMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:56:38
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:54:53
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:52:47
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:52:40
+  Contato da Mensagem : 120363353428473742@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:20
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:20
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:20
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:20
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:19
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:19
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:19
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:19
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:18
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 22:32:18
+  Contato da Mensagem : 555185128256-1628863070@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:32:25
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:20:13
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:54:34
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : audioMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:46:57
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:46:19
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:46:06
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:46:03
+  Contato da Mensagem : 120363400308836189@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:57:22
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:57:21
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:57:16
+  Contato da Mensagem : 120363026841820527@g.us
+  Tipo da mensagem : documentMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:23
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:23
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:22
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:21
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:20
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:20
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 10:16:19
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 09:37:33
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 29/05/2025 08:59:29
+  Contato da Mensagem : 120363274125188264@g.us
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:44:33
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : editedMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:43:30
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:43:21
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : imageMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:41:45
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:41:36
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : conversation
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:38:43
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : documentWithCaptionMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:36:57
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : documentWithCaptionMessage
+  
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 28/05/2025 23:36:37
+  Contato da Mensagem : 555198113574@s.whatsapp.net
+  Tipo da mensagem : editedMessage
+  
+   

@@ -1,0 +1,1348 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Comercial
+    Whatsapp Id: 49
+    Criação do arquivo de logs: 29/05/2025 13:35:48
+    Selecionado Data de inicio de importação: 28/05/2025 17:50:00 
+    Selecionado Data final da importação: 29/05/2025 13:33:00 
+     
+448493@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "AQeTXVeVhE2U696XSUiP5A=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555181560524@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E5A96FC4561930D7FC"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "*Paola:*\nhttps://meet.google.com/dus-ejvp-wre",
+      "matchedText": "https://meet.google.com/dus-ejvp-wre",
+      "description": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+      "title": "Meet",
+      "previewType": "NONE",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOCiieaVY4lLOxwAKTaSuyoxc3yx3Ooh8FGSCN2vwrMoJAhyBx65ryp5nyyceXbz/wCAdLwrWjY//hB/+oj/AOQP/sqn+1f7n4/8APq3mcvNayxXM8G3e0DMHKAkDBwT9K9WE1KKkupyS912Z0Xh+0iSwW4A/eyZyx9ASMD8q74YOFaClJsmOOnh5NQS+f8Aw42fxbf2s8lukNsUiYopZWzgHHPNeLVyyj7SWr3fb/I6VipyXM0tTobDWfN0WG9uQgmk3YROM4Yjvn0ry54N+3dOGy6mk8TGnT55b9jJuoo1sb2ZI1V50eRyO5IJr2ILl5Y9jw3UlUqpy7kWiSoukwBmwRu7f7Rr6LC/wl/XUdZ++zIu9JvpruaWODKPIzKd68gnjvXk1px9pL1Z0RrQUUmzZ0+zePTYopV2SrnPOe5PauWTu7nJVkpTbRLdOraXchWVikTK2DnBC8ikt0KCamrnO2mq/ZrdIfJ3bc87sd8+lerSxXs4KNjsnQ55c1y6viTaoH2ToMf6z/61cE488nLuZ/VfMX/hJf8Ap0/8if8A1qn2XmH1XzMlr2bzrl4mMa3BbevUYPb9etXyrQ6fZqyT6H//2Q==",
+      "contextInfo": {
+        "forwardingScore": 2,
+        "isForwarded": true
+      },
+      "thumbnailDirectPath": "/o1/v/t24/f2/m231/AQO1PjGdC8t3k7wOEyW47Tp7hnugb88LvHlCGZ4heHCuAI9cP_gJVRwKCfu4mILQ5XKhoeWThjhyanIA8KCYYNiy3XU-DQEkfhfvpFYMmg?ccb=9-4&oh=01_Q5Aa1gGuT8VSbN9HlKz9xMLOuSuez1mIRxJ_iO9jvsLDF6SLhA&oe=686010EF&_nc_sid=e6ed6c",
+      "thumbnailSha256": "mlQnqjIyh6ot+oQkwKHvHWR9uSUSCHisVCQQU4L56OQ=",
+      "thumbnailEncSha256": "8FoI7KStcsjkX5UIT3WlL/hzRFpXA3BBPLcEYmMJNxM=",
+      "mediaKey": "oLq4LqoPaty9eRn/z2IurUL4XWu1T6q4lS/kU6ceo/g=",
+      "mediaKeyTimestamp": "1748536246",
+      "thumbnailHeight": 192,
+      "thumbnailWidth": 192,
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1748536246",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555181560524@s.whatsapp.net",
+      "receiptTimestamp": "1748536248",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199290336-1468355772@g.us",
+    "fromMe": false,
+    "id": "3A4EDA95F51E47E4C452"
+  },
+  "message": {
+    "conversation": "Por nós?",
+    "messageContextInfo": {
+      "messageSecret": "6cfwv9SZPq6UyZqW1HzoKWIo2oaFv3RUXMQEPIRNW/s="
+    }
+  },
+  "messageTimestamp": "1748536168",
+  "participant": "555199290336@s.whatsapp.net",
+  "messageSecret": "6cfwv9SZPq6UyZqW1HzoKWIo2oaFv3RUXMQEPIRNW/s=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQcCE5HwK9nRLSI+aSBix4DQP8U="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3A8C334B0178F0F5CDFB"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "*Paola:*\nhttps://meet.google.com/dus-ejvp-wre",
+      "matchedText": "https://meet.google.com/dus-ejvp-wre",
+      "description": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+      "title": "Meet",
+      "textArgb": 0,
+      "backgroundArgb": 0,
+      "font": "SYSTEM",
+      "previewType": "NONE",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2MBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEIACAAIAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AOCiieaVY4lLOxwAKTaSuyoxc3yx3Ooh8FGSCN2vwrMoJAhyBx65ryp5nyyceXbz/wCAdLwrWjY//hB/+oj/AOQP/sqn+1f7n4/8APq3mcvNayxXM8G3e0DMHKAkDBwT9K9WE1KKkupyS912Z0Xh+0iSwW4A/eyZyx9ASMD8q74YOFaClJsmOOnh5NQS+f8Aw42fxbf2s8lukNsUiYopZWzgHHPNeLVyyj7SWr3fb/I6VipyXM0tTobDWfN0WG9uQgmk3YROM4Yjvn0ry54N+3dOGy6mk8TGnT55b9jJuoo1sb2ZI1V50eRyO5IJr2ILl5Y9jw3UlUqpy7kWiSoukwBmwRu7f7Rr6LC/wl/XUdZ++zIu9JvpruaWODKPIzKd68gnjvXk1px9pL1Z0RrQUUmzZ0+zePTYopV2SrnPOe5PauWTu7nJVkpTbRLdOraXchWVikTK2DnBC8ikt0KCamrnO2mq/ZrdIfJ3bc87sd8+lerSxXs4KNjsnQ55c1y6viTaoH2ToMf6z/61cE488nLuZ/VfMX/hJf8Ap0/8if8A1qn2XmH1XzMlr2bzrl4mMa3BbevUYPb9etXyrQ6fZqyT6H//2Q==",
+      "thumbnailDirectPath": "/o1/v/t24/f2/m238/AQPQmSeOXHi0-f4EHGgQ1rP384nPnHtjsHSHL7VquiriUPWhbcXu2ydrKAxyhFtSbtUVVZF-aHoV29ziENAMP7vSvqAmxZREGo0Elaytpg?ccb=9-4&oh=01_Q5Aa1gEIwcFu_iOsvIKtqwQhn0p0VJLA-BEnLcjk58zHOTi4Kg&oe=685FEAB7&_nc_sid=e6ed6c",
+      "thumbnailSha256": "mlQnqjIyh6ot+oQkwKHvHWR9uSUSCHisVCQQU4L56OQ=",
+      "thumbnailEncSha256": "3LjwVvmYMGTLbYqhj/SONci0RFHNV8tFYy5MR9huf/M=",
+      "mediaKey": "dV1JPwrlZwlrlNs/yDd0bRARBzZAr0cCz8UsRQYX0Kc=",
+      "mediaKeyTimestamp": "1748536045",
+      "thumbnailHeight": 192,
+      "thumbnailWidth": 192,
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "rkuyecI0kJDEKwdMJ9BNyRJqWASzhGSO/90OHZDM0Es="
+    }
+  },
+  "messageTimestamp": "1748536088",
+  "participant": "555194556916@s.whatsapp.net",
+  "messageSecret": "rkuyecI0kJDEKwdMJ9BNyRJqWASzhGSO/90OHZDM0Es=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQd4A/uisaF5j80wJlrJQK0D2G4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199290336-1468355772@g.us",
+    "fromMe": true,
+    "id": "3EB05ED7D5B35CA59035D3"
+  },
+  "message": {
+    "conversation": "*Daiani:*\nfeito"
+  },
+  "messageTimestamp": "1748536068",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "555199290336@s.whatsapp.net",
+      "receiptTimestamp": "1748536069",
+      "readTimestamp": "1748536159",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555194093296@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1748536071",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555192423610@s.whatsapp.net",
+      "receiptTimestamp": "1748536070",
+      "readTimestamp": "1748536332",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748536069",
+      "readTimestamp": "1748536312",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555180504278@s.whatsapp.net",
+      "receiptTimestamp": "1748536068",
+      "readTimestamp": "1748536080",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "555199290336-1468355772@g.us",
+        "fromMe": false,
+        "id": "3AEA041A4B9636E19D40",
+        "participant": "555180504278@s.whatsapp.net"
+      },
+      "text": "🙏",
+      "senderTimestampMs": "1748536099193",
+      "unread": true
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": true,
+    "id": "3EB07F58107F9482F1A06E"
+  },
+  "message": {
+    "conversation": "*Daiani:*\nsim"
+  },
+  "messageTimestamp": "1748535983",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555194556916@s.whatsapp.net",
+      "receiptTimestamp": "1748535984",
+      "readTimestamp": "1748535998",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199290336@s.whatsapp.net",
+      "receiptTimestamp": "1748535986",
+      "readTimestamp": "1748536184",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "554891591427@s.whatsapp.net",
+      "receiptTimestamp": "1748535984",
+      "readTimestamp": "1748535988",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748535984",
+      "readTimestamp": "1748536000",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555182438256@s.whatsapp.net",
+      "receiptTimestamp": "1748536006",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3AFAF17E7B1A5A54122A"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Está disponível para falar agora?",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB03998415A10295EA102",
+        "participant": "555198285379@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "*Daiani:*\nquero ajuda"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "1MoeMID+S02mRxS+tAuakMomXtHQlZ0mFFbADu+mVjk="
+    }
+  },
+  "messageTimestamp": "1748535912",
+  "participant": "555194556916@s.whatsapp.net",
+  "messageSecret": "1MoeMID+S02mRxS+tAuakMomXtHQlZ0mFFbADu+mVjk=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQcIh+XeMlNx9pWm1CMQjrRYw8M="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199290336-1468355772@g.us",
+    "fromMe": false,
+    "id": "3A879E1801DF48211771"
+  },
+  "message": {
+    "conversation": "Imóvel da Rua Luciana de Abreu foi locado",
+    "messageContextInfo": {
+      "messageSecret": "3f6fwUFRC/BxicvDDOaFl5whI6gqMgC9UyZiEuo+WHU="
+    }
+  },
+  "messageTimestamp": "1748535790",
+  "participant": "555180504278@s.whatsapp.net",
+  "messageSecret": "3f6fwUFRC/BxicvDDOaFl5whI6gqMgC9UyZiEuo+WHU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQe8cyxeMQkg7axZtf4EAsyuYFc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199290336-1468355772@g.us",
+    "fromMe": false,
+    "id": "3AE19BE89C3DE8BBAF53"
+  },
+  "message": {
+    "conversation": "Boa tarde, pessoal",
+    "messageContextInfo": {
+      "messageSecret": "4SijnwUlCVTaKcyO9b/hadvpUAK8hnSG/NsOsnmO+4A="
+    }
+  },
+  "messageTimestamp": "1748535774",
+  "participant": "555180504278@s.whatsapp.net",
+  "messageSecret": "4SijnwUlCVTaKcyO9b/hadvpUAK8hnSG/NsOsnmO+4A=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQeXK8HHCsvjJJ9YezFK+XP82xk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": true,
+    "id": "3EB03998415A10295EA102"
+  },
+  "message": {
+    "conversation": "*Daiani:*\nquero ajuda"
+  },
+  "messageTimestamp": "1748535440",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555194556916@s.whatsapp.net",
+      "receiptTimestamp": "1748535441",
+      "readTimestamp": "1748535905",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199290336@s.whatsapp.net",
+      "receiptTimestamp": "1748535441",
+      "readTimestamp": "1748536184",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "554891591427@s.whatsapp.net",
+      "receiptTimestamp": "1748535441",
+      "readTimestamp": "1748535896",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748535440",
+      "readTimestamp": "1748535440",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555182438256@s.whatsapp.net",
+      "receiptTimestamp": "1748535441",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524998420459@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F00F52C8ECD52A04244C6F5556E48445"
+  },
+  "message": {
+    "conversation": "Estamos fechados no momento! Nosso horario de atendimento é de Segunda a sexta-feira das 9:00h as 12:00h e das 13:30h até as 18:00h. Assim que retornarmos responderemos sua mensagem!\nImobiliaria Nascimento agradecemos seu contato 🥰",
+    "messageContextInfo": {
+      "messageSecret": "/6oe7/vQ01YB9NmJNXbE5sETSQmjmXL0rjaOVBlMufU="
+    }
+  },
+  "messageTimestamp": "1748535415",
+  "status": "READ",
+  "messageC2STimestamp": "1748535416",
+  "userReceipt": [
+    {
+      "userJid": "5524998420459@s.whatsapp.net",
+      "receiptTimestamp": "1748535416",
+      "readTimestamp": "1748535439",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "/6oe7/vQ01YB9NmJNXbE5sETSQmjmXL0rjaOVBlMufU="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "5524998420459@s.whatsapp.net",
+    "fromMe": false,
+    "id": "7EA531610616C670530902642102A46F"
+  },
+  "message": {
+    "conversation": "Boa tarde meu nome é Priscilla, é um prazer falar com você! Gostaria de uma oportunidade de mostrar nosso trabalho.. \nO seu sim não vai custar nada para você.\nE assim você está me ajudando a divulgar meu trabalho.\n\nSomos especialistas em sistemas que automatizam sua prospecção e agilizam o atendimento no WhatsApp, com foco total na sua área de atuação.\n\nA nossa tecnologia encontra seu público, divulga seu serviço e te coloca em contato com *10 a 20 novos clientes por dia, em tempo real*.\n\nPosso te apresentar como funciona, sem compromisso?",
+    "messageContextInfo": {
+      "messageSecret": "rHTMGv7ZhAnHX6IXGAO2xasUFWoDpgheQfPxIKCXktM="
+    }
+  },
+  "messageTimestamp": "1748535387",
+  "messageSecret": "rHTMGv7ZhAnHX6IXGAO2xasUFWoDpgheQfPxIKCXktM=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQeG2fMdQgGVFQdkPYoe/6xUnhc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3A40EABFF3D70C883D7B"
+  },
+  "message": {
+    "conversation": "Isso\nSinalizem se vcs precisam de ajuda para fazer\nAguardo retorno de vcs aqui!!!\nOs três",
+    "messageContextInfo": {
+      "messageSecret": "GPVwWFPi8opRi/OezDDF4OhTl9mGoWG+WE/CDmihV7g="
+    }
+  },
+  "messageTimestamp": "1748533845",
+  "participant": "555199290336@s.whatsapp.net",
+  "messageSecret": "GPVwWFPi8opRi/OezDDF4OhTl9mGoWG+WE/CDmihV7g=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQd21YU/0o/1BJ14xiuuBH725Ws="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3A90EB06F5BEC3DB8B5F"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/26108679_1190706202735539_1309394526244369947_n.enc?ccb=11-4&oh=01_Q5Aa1gE_TyIxYs3HI2PdXOTmM8sAhXeeBu3vMgWGsu5qftaTTg&oe=685FDD08&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "zTzUXB7j2DTmTBP/OuAeXKmPAmV1WZtcPQFU7JSLVkQ=",
+      "fileLength": "95393",
+      "seconds": 41,
+      "ptt": true,
+      "mediaKey": "Bk/SFM+qclJY+2n/GqjJq7bdOFtqm/g780S5j8W63LM=",
+      "fileEncSha256": "fSRVJvSNkw9AqmM9K/BOauekPQwnnct2WTBDjEyjwlo=",
+      "directPath": "/v/t62.7117-24/26108679_1190706202735539_1309394526244369947_n.enc?ccb=11-4&oh=01_Q5Aa1gE_TyIxYs3HI2PdXOTmM8sAhXeeBu3vMgWGsu5qftaTTg&oe=685FDD08&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1748533711",
+      "waveform": "GR4NFxMPHhscAyofFCQZDCEPDAgcEw0LCBMQFQ8MDwlBHBwUFg8bExwYFh4YEBALEgscDgoJDxARGBMVCQ0LBg=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "/ZQjtufkAdhxWjlAFxbPmB9U+mJKbfogPDxIaQUXew4="
+    }
+  },
+  "messageTimestamp": "1748533754",
+  "participant": "554891591427@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Voice Notes/202522/PTT-20250529-WA0002.opus"
+  },
+  "messageSecret": "/ZQjtufkAdhxWjlAFxbPmB9U+mJKbfogPDxIaQUXew4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQeaJ9OjVgUIrKW+ArLWO76jN0E="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3AD39610ED9D7720CAEF"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Fazerem isso!!!",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB00B92201753E574BA7B",
+        "participant": "555194556916@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "*Paola:*\nUm detalhe importante!\n\n- As conversas de ontem pela noite (a partir das 18h e até agora 11h) não vão espelhar no sistema por conta da queda para exportação dos dados.\n\nNesse cenário temos algumas opções como:\n1º Exportar as conversas a partir das 18h até o momento (Nesse caso deverá ser realizado nas conexões, clicar em *editar* (no lápis), *importar mensagem* e definir o dia 28/05 das 18h até o dia 29/05 até o horário atual.\n\n2º Encaminhar uma mensagem no Whatsapp somente para subir essa conversa (porém sem as mensagem desse determinado horário)."
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "NBCGQVABW2Gf40rQaVsO90Dm/qweI2/zOqRXnBSoPoA="
+    }
+  },
+  "messageTimestamp": "1748532347",
+  "participant": "555199290336@s.whatsapp.net",
+  "messageSecret": "NBCGQVABW2Gf40rQaVsO90Dm/qweI2/zOqRXnBSoPoA=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQeIBLxz9aK7op14lJv10QV7rMc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": true,
+    "id": "3EB0D0A829BEAD0623CB84"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "*Cibele:*\nnão entendi, ALine",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A70C68E5A5A613E559E",
+        "participant": "555199290336@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Pessoal\nMuito importante fazerem isso"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1748530479",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555194556916@s.whatsapp.net",
+      "receiptTimestamp": "1748530484",
+      "readTimestamp": "1748530649",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199290336@s.whatsapp.net",
+      "receiptTimestamp": "1748530482",
+      "readTimestamp": "1748532338",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "554891591427@s.whatsapp.net",
+      "receiptTimestamp": "1748530480",
+      "readTimestamp": "1748533706",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748530479",
+      "readTimestamp": "1748535428",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555182438256@s.whatsapp.net",
+      "receiptTimestamp": "1748530480",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3EB0CFEBCBDDDF60AC1F2F"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t24/f2/m238/AQMmJdFAvy9UZd86tlVP46Hh95En_AmImQ7BoMKX5H1l0dwS_J0fCCiR_C_wUhy-9zR9IjbnDn9LHHohS-uhLfM5yW-df3_lN_u1N6HxLA?ccb=9-4&oh=01_Q5Aa1gEHVXrs-IhI0vL5F-ZfLqtEv628_f1OB7XMi-y4rGdstQ&oe=685FD5F6&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "*Paola:*\r\nSegue um passo a passo, após definir (passo 6), deverá clicar em salvar, atualizar a página e gerar qr-code (para leitura).\r\n\r\nFeito isso, vai aparecer uma caixa \"Preparando mensagens para importação\"",
+      "fileSha256": "AUzOZFZmNGJfBMACwZwgYDnzDDxcK3tsI+JVvnirS4c=",
+      "fileLength": "156692",
+      "height": 687,
+      "width": 773,
+      "mediaKey": "Y79bCLIO1aBwAPknG09OxLZ5HUHB/VpDuVYmOKY6F/I=",
+      "fileEncSha256": "7Zo1aPaTcLW+eptMz1aWM6JWuW/Mt0yuXUjN7I+3gOU=",
+      "directPath": "/o1/v/t24/f2/m238/AQMmJdFAvy9UZd86tlVP46Hh95En_AmImQ7BoMKX5H1l0dwS_J0fCCiR_C_wUhy-9zR9IjbnDn9LHHohS-uhLfM5yW-df3_lN_u1N6HxLA?ccb=9-4&oh=01_Q5Aa1gEHVXrs-IhI0vL5F-ZfLqtEv628_f1OB7XMi-y4rGdstQ&oe=685FD5F6&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1748529253"
+    }
+  },
+  "messageTimestamp": "1748529254",
+  "participant": "555194556916@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20250529-WA0001.jpg"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "AQdjj/ZKH9k1dC9HcJ3KDA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3A70C68E5A5A613E559E"
+  },
+  "message": {
+    "conversation": "Pessoal\nMuito importante fazerem isso",
+    "messageContextInfo": {
+      "messageSecret": "Dh2WTnkFPgJRJ5eGYBhyRBzq15tCDk0cBbo7uBU0yl4="
+    }
+  },
+  "messageTimestamp": "1748528774",
+  "participant": "555199290336@s.whatsapp.net",
+  "messageSecret": "Dh2WTnkFPgJRJ5eGYBhyRBzq15tCDk0cBbo7uBU0yl4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQcH7L9ThLR0aldREI7Z0HwCi8k="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3EB00B92201753E574BA7B"
+  },
+  "message": {
+    "conversation": "*Paola:*\nUm detalhe importante!\n\n- As conversas de ontem pela noite (a partir das 18h e até agora 11h) não vão espelhar no sistema por conta da queda para exportação dos dados.\n\nNesse cenário temos algumas opções como:\n1º Exportar as conversas a partir das 18h até o momento (Nesse caso deverá ser realizado nas conexões, clicar em *editar* (no lápis), *importar mensagem* e definir o dia 28/05 das 18h até o dia 29/05 até o horário atual.\n\n2º Encaminhar uma mensagem no Whatsapp somente para subir essa conversa (porém sem as mensagem desse determinado horário)."
+  },
+  "messageTimestamp": "1748528307",
+  "participant": "555194556916@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "AQcOlBBj1tfwi3QCH2oM7A=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554184250390@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F622BD8345BF56D7881"
+  },
+  "message": {
+    "conversation": "Tudo bem?"
+  },
+  "messageTimestamp": "1748527869",
+  "reportingTokenInfo": {
+    "reportingTag": "AQcM5j9d2Q81kTwvZf0w9Q=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "554184250390@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3FE8FE70032D01D46009"
+  },
+  "message": {
+    "conversation": "Oii, bom dia"
+  },
+  "messageTimestamp": "1748527865",
+  "reportingTokenInfo": {
+    "reportingTag": "AQdtEEMo2w2ECMB8M2hAUg=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3EB03A55A228600F8281CC"
+  },
+  "message": {
+    "conversation": "*Paola:*\nPessoal, voltamos ao AR! Lembrando novamente que foi a última extração de dados, não ocorrerá novamente."
+  },
+  "messageTimestamp": "1748527857",
+  "participant": "555194556916@s.whatsapp.net",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "120363400308836189@g.us",
+        "fromMe": false,
+        "id": "3ADF33677CC1224630E1",
+        "participant": "555199290336@s.whatsapp.net"
+      },
+      "text": "🙏",
+      "senderTimestampMs": "1748528088553"
+    }
+  ],
+  "reportingTokenInfo": {
+    "reportingTag": "AQctjg1cnuyTRd+pOy5aaA=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555195482352@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB06F159867D5E777300A"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-centro-canoas/149701",
+      "matchedText": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-centro-canoas/149701",
+      "description": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-centro-canoas/149701",
+      "title": "www.nascimentoimoveisrs.com.br",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "j6Y6qiPo6PiRw2I+f6Wyp9kVm2cq4gCVSLsCQ1ndNy0="
+    }
+  },
+  "messageTimestamp": "1748526060",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "555195482352@s.whatsapp.net",
+      "receiptTimestamp": "1748526061",
+      "readTimestamp": "1748528617",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "j6Y6qiPo6PiRw2I+f6Wyp9kVm2cq4gCVSLsCQ1ndNy0="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363389514101187@g.us",
+    "fromMe": true,
+    "id": "3EB013B6D72BE03A4AC753"
+  },
+  "message": {
+    "conversation": "Também sem tamanho",
+    "messageContextInfo": {
+      "messageSecret": "EIj/GE5AbeDa83G065cU6vgH6hYb+lAGQt3KQghv1S8="
+    }
+  },
+  "messageTimestamp": "1748526031",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748526031",
+      "readTimestamp": "1748527931",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555180504278@s.whatsapp.net",
+      "receiptTimestamp": "1748526031",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "EIj/GE5AbeDa83G065cU6vgH6hYb+lAGQt3KQghv1S8="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363389514101187@g.us",
+    "fromMe": true,
+    "id": "3EB08750CEFC46F0A101C5"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-mathias-velho-canoas/149076",
+      "matchedText": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-mathias-velho-canoas/149076",
+      "description": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-mathias-velho-canoas/149076",
+      "title": "www.nascimentoimoveisrs.com.br",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "mJVlDSStn2eECIYQqNFWu335i8EGCjC8BbD6TGf08D0="
+    }
+  },
+  "messageTimestamp": "1748526026",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748526026",
+      "readTimestamp": "1748527931",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555180504278@s.whatsapp.net",
+      "receiptTimestamp": "1748526026",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "mJVlDSStn2eECIYQqNFWu335i8EGCjC8BbD6TGf08D0="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363389514101187@g.us",
+    "fromMe": true,
+    "id": "3EB0F5A4EA7F5B0EB88C48"
+  },
+  "message": {
+    "conversation": "Sabe o tamanho? Não consta no anúncio",
+    "messageContextInfo": {
+      "messageSecret": "7uvTmSqiIaFm9zUl5UqATDQcqpPYgTyiAossJHiU/7A="
+    }
+  },
+  "messageTimestamp": "1748525958",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748525958",
+      "readTimestamp": "1748527931",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555180504278@s.whatsapp.net",
+      "receiptTimestamp": "1748525959",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "7uvTmSqiIaFm9zUl5UqATDQcqpPYgTyiAossJHiU/7A="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363389514101187@g.us",
+    "fromMe": true,
+    "id": "3EB01BE20961ABB9A4BA27"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-harmonia-canoas/149729",
+      "matchedText": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-harmonia-canoas/149729",
+      "description": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-harmonia-canoas/149729",
+      "title": "www.nascimentoimoveisrs.com.br",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "zPytUeye9p1c117CJERaxz2gRdg5T/gO2RIDYHBY7QI="
+    }
+  },
+  "messageTimestamp": "1748525944",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748525945",
+      "readTimestamp": "1748527931",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555180504278@s.whatsapp.net",
+      "receiptTimestamp": "1748525945",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "zPytUeye9p1c117CJERaxz2gRdg5T/gO2RIDYHBY7QI="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555195482352@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01FDC8593853DE20BDA"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-mathias-velho-canoas/149725",
+      "matchedText": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-mathias-velho-canoas/149725",
+      "description": "https://www.nascimentoimoveisrs.com.br/imovel/exibir/locacao-sala-comercial-em-alvenaria-mathias-velho-canoas/149725",
+      "title": "www.nascimentoimoveisrs.com.br",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "rVYygVSMgPeZbjrndsmJBarpamLDtseF+1rc+M7Fcfo="
+    }
+  },
+  "messageTimestamp": "1748525890",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "555195482352@s.whatsapp.net",
+      "receiptTimestamp": "1748525890",
+      "readTimestamp": "1748528617",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "rVYygVSMgPeZbjrndsmJBarpamLDtseF+1rc+M7Fcfo="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555195482352@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04E705CAFD6FA969121"
+  },
+  "message": {
+    "conversation": "Bom dia!\n\nTenho esta opção:",
+    "messageContextInfo": {
+      "messageSecret": "krT1J9krYsKFM8Ng8yBrnXeQvzovJOJonbo1DRXAxhk="
+    }
+  },
+  "messageTimestamp": "1748525888",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "555195482352@s.whatsapp.net",
+      "receiptTimestamp": "1748525889",
+      "readTimestamp": "1748528617",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "krT1J9krYsKFM8Ng8yBrnXeQvzovJOJonbo1DRXAxhk="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199116599@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB016A61FE2B7D5AB7283"
+  },
+  "message": {
+    "conversation": "Me conta, qual imóvel vc procura para locação?",
+    "messageContextInfo": {
+      "messageSecret": "Bh0IkyKZpVuNgtgfZwiLu0JwSjsMPAceCbF1si1jzuc="
+    }
+  },
+  "messageTimestamp": "1748525726",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "555199116599@s.whatsapp.net",
+      "receiptTimestamp": "1748525736",
+      "readTimestamp": "1748533604",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Bh0IkyKZpVuNgtgfZwiLu0JwSjsMPAceCbF1si1jzuc="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555192366364@s.whatsapp.net",
+    "fromMe": true,
+    "id": "A5E6C365A7581CC4E109C0E20B31B619"
+  },
+  "message": {
+    "conversation": "Gostaria de realizar a visita quando?",
+    "messageContextInfo": {
+      "messageSecret": "hpviTaO1r/clIrbhtuYCKFws0gVBJ1VFU6G8Y7Hh2uo="
+    }
+  },
+  "messageTimestamp": "1748525660",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1748525661",
+  "userReceipt": [
+    {
+      "userJid": "555192366364@s.whatsapp.net",
+      "receiptTimestamp": "1748525662",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "hpviTaO1r/clIrbhtuYCKFws0gVBJ1VFU6G8Y7Hh2uo="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555192366364@s.whatsapp.net",
+    "fromMe": true,
+    "id": "880C7E1ECEAD390765A5540EB2C21E6F"
+  },
+  "message": {
+    "conversation": "Imóvel disponível",
+    "messageContextInfo": {
+      "messageSecret": "9Kzyd3TeRk+L/Svs2v7xNahvqiwejP2wUPhP5lFeVXw="
+    }
+  },
+  "messageTimestamp": "1748525630",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1748525631",
+  "userReceipt": [
+    {
+      "userJid": "555192366364@s.whatsapp.net",
+      "receiptTimestamp": "1748525633",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "9Kzyd3TeRk+L/Svs2v7xNahvqiwejP2wUPhP5lFeVXw="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555192366364@s.whatsapp.net",
+    "fromMe": true,
+    "id": "7787EEE2A7FC65C4CD9F826C0094B422"
+  },
+  "message": {
+    "conversation": "Bom dia!\nQual seu nome?",
+    "messageContextInfo": {
+      "messageSecret": "f9iAchS5Ddih9M7bgSKMsU2MO7MQQ3d1rw5V92jlZk8="
+    }
+  },
+  "messageTimestamp": "1748525619",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "555192366364@s.whatsapp.net",
+      "receiptTimestamp": "1748525622",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "f9iAchS5Ddih9M7bgSKMsU2MO7MQQ3d1rw5V92jlZk8="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": true,
+    "id": "7C174BEC9C682A2D77EDD35CFC3FFAC8"
+  },
+  "message": {
+    "conversation": "Nem no meu",
+    "messageContextInfo": {
+      "messageSecret": "B26oxGPlVKCZBNqTMFar8XLUYxypzWqPMJlUzT50yjg="
+    }
+  },
+  "messageTimestamp": "1748525544",
+  "status": "READ",
+  "messageC2STimestamp": "1748525545",
+  "userReceipt": [
+    {
+      "userJid": "555194556916@s.whatsapp.net",
+      "receiptTimestamp": "1748525547",
+      "readTimestamp": "1748530649",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199290336@s.whatsapp.net",
+      "receiptTimestamp": "1748525546",
+      "readTimestamp": "1748525603",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "554891591427@s.whatsapp.net",
+      "receiptTimestamp": "1748525547",
+      "readTimestamp": "1748528971",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555199448493@s.whatsapp.net",
+      "receiptTimestamp": "1748525546",
+      "readTimestamp": "1748527922",
+      "playedTimestamp": "0"
+    },
+    {
+      "userJid": "555182438256@s.whatsapp.net",
+      "receiptTimestamp": "1748525547",
+      "readTimestamp": "1748529606",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "B26oxGPlVKCZBNqTMFar8XLUYxypzWqPMJlUzT50yjg="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199290336-1468355772@g.us",
+    "fromMe": false,
+    "id": "3EB0E6C2E5B4B8B43B7AAA"
+  },
+  "message": {
+    "conversation": "https://produto.mercadolivre.com.br/MLB-1848405771-porta-chaves-armario-claviculario-de-91-chaves-kitec-_JM?matt_tool=70183984&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193666&matt_ad_group_id=174661940324&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914178066&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=564196924&matt_product_id=MLB1848405771&matt_product_partition_id=2393411109732&matt_target_id=pla-2393411109732&cq_src=google_ads&cq_cmp=22090193666&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193666&gbraid=0AAAAAD93qcAVBniqSr1zjNe1KUYfiAiP3&gclid=CjwKCAjwi-DBBhA5EiwAXOHsGQFvCAEPMJdfpuVeXQpTWsib2aJ0w8UcUCaMyxlOcv6XpK8QenuQlRoC5KYQAvD_BwE",
+    "messageContextInfo": {
+      "messageSecret": "SSwZMh6B/gBEAOoCrvc4gzz+xeW0fGtuTOi/Yxus6J4="
+    }
+  },
+  "messageTimestamp": "1748525173",
+  "participant": "555199448493@s.whatsapp.net",
+  "messageSecret": "SSwZMh6B/gBEAOoCrvc4gzz+xeW0fGtuTOi/Yxus6J4=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQcTF2b0qN0B9hvD72++eqOEybM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363400308836189@g.us",
+    "fromMe": false,
+    "id": "3A11A6E4A605C2C61A7C"
+  },
+  "message": {
+    "conversation": "Aguardamos",
+    "messageContextInfo": {
+      "messageSecret": "NLpmvoOeOAGbn7u0L33idscc96amDgIO4QZVhtb6aOg="
+    }
+  },
+  "messageTimestamp": "1748524813",
+  "participant": "555199290336@s.whatsapp.net",
+  "messageSecret": "NLpmvoOeOAGbn7u0L33idscc96amDgIO4QZVhtb6aOg=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQc/Rkh2sWRG7G00CJElQ/nQfwY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363402906550911@g.us",
+    "fromMe": false,
+    "id": "3A4F718FFA3DEEE04C10"
+  },
+  "message": {
+    "documentMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7119-24/31864167_1945134119356122_4972046401067883929_n.enc?ccb=11-4&oh=01_Q5Aa1gGzRb8wzdNdFgXblejz-g8hU-2_QTtDBQvVxyHYuL4aVg&oe=685FA0E8&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "application/pdf",
+      "title": "Junho @nascimentoimoveis_.pdf",
+      "fileSha256": "8Jr1phEb587GVCMfSfKt0H/xjxlFIZOS5+E9Ruwbxuc=",
+      "fileLength": "32225437",
+      "pageCount": 16,
+      "mediaKey": "SsC+ifc0ZnY5zlTL4KqeOdbhm3jDjspqZNfgG4432iQ=",
+      "fileName": "Junho @nascimentoimoveis_.pdf",
+      "fileEncSha256": "oKJemFcalTJSWHqqcwOVaiZQ9S5QdMC0YMS0N9+O0oM=",
+      "directPath": "/v/t62.7119-24/31864167_1945134119356122_4972046401067883929_n.enc?ccb=11-4&oh=01_Q5Aa1gGzRb8wzdNdFgXblejz-g8hU-2_QTtDBQvVxyHYuL4aVg&oe=685FA0E8&_nc_sid=5e03e0&_nc_hot=1748516187",
+      "mediaKeyTimestamp": "1748516127",
+      "thumbnailDirectPath": "/v/t62.36145-24/30567750_1445675056437408_524075931561100292_n.enc?ccb=11-4&oh=01_Q5Aa1gGxBNC7Ky83U7udw1HF2Z1OcQcFbwXJVIb8Tf4o7yUyXQ&oe=685FB305&_nc_sid=5e03e0",
+      "thumbnailSha256": "Y8Sa9UQZSCwyz7mg5gmmziPgm6EZaVz20+tBqb7IQzs=",
+      "thumbnailEncSha256": "LR8dRgEaupL9vGgf9olui2sfZT5ggKBrhmnlNw1/Uso=",
+      "contextInfo": {
+        "forwardingScore": 1,
+        "isForwarded": true
+      },
+      "thumbnailHeight": 12,
+      "thumbnailWidth": 37
+    },
+    "messageContextInfo": {
+      "messageSecret": "wwUAOuPuSx7+tlzBDdQcT4RBn2G6dc2ZjXPAcjYuU3I="
+    }
+  },
+  "messageTimestamp": "1748516187",
+  "participant": "555182438256@s.whatsapp.net",
+  "messageSecret": "wwUAOuPuSx7+tlzBDdQcT4RBn2G6dc2ZjXPAcjYuU3I=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQdFU6DqerF882PoaJxmY8CMyLI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363402906550911@g.us",
+    "fromMe": false,
+    "id": "3A338B060D664F96AC2E"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "*Eduarda:*\nBom dia pessoal! Tudo bemmm?\nPessoal, segue planejamento + vídeos editados ⬇️\nhttps://drive.google.com/drive/folders/1yvRB4bPXqiiNTIGx9DxtowdHuvwUCBFx?usp=sharing \n\n@555180504278, caso tenha um tempinho para acrescentar mais alguns para carrossel, só me avisar que eu acrescento no planejamento!",
+      "matchedText": "https://drive.google.com/drive/folders/1yvRB4bPXqiiNTIGx9DxtowdHuvwUCBFx?usp=sharing",
+      "title": "Nascimento Imóveis  - Google Drive",
+      "textArgb": 0,
+      "backgroundArgb": 0,
+      "font": "SYSTEM",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "555180504278@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "Lw0oSEQUtY7a4ZXwPUZqg6ApQmqsicuCurCaNhiT1QU="
+    }
+  },
+  "messageTimestamp": "1748516164",
+  "participant": "555182438256@s.whatsapp.net",
+  "messageSecret": "Lw0oSEQUtY7a4ZXwPUZqg6ApQmqsicuCurCaNhiT1QU=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQdNy+NHHs28ZNzsOdYcGNr4bxw="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199116599@s.whatsapp.net",
+    "fromMe": true,
+    "id": "C47561312D386E159C94334D4ADB9E18"
+  },
+  "message": {
+    "conversation": "Estamos fechados no momento! Nosso horario de atendimento é de Segunda a sexta-feira das 9:00h as 12:00h e das 13:30h até as 18:00h. Assim que retornarmos responderemos sua mensagem!\nImobiliaria Nascimento agradecemos seu contato 🥰",
+    "messageContextInfo": {
+      "messageSecret": "aMOA9Ih3dbHwJkfKPLB7/xqE4qkKBbevAzQqiSKfQao="
+    }
+  },
+  "messageTimestamp": "1748482620",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "555199116599@s.whatsapp.net",
+      "receiptTimestamp": "1748482621",
+      "readTimestamp": "1748533604",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "aMOA9Ih3dbHwJkfKPLB7/xqE4qkKBbevAzQqiSKfQao="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555199116599@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A59890C7732B803F028"
+  },
+  "message": {
+    "conversation": "Não gostei de nenhuma",
+    "messageContextInfo": {
+      "messageSecret": "m89zgiRGbTrCGNtTuTD+av9aSmpRzS70fJbuzNYQuyc="
+    }
+  },
+  "messageTimestamp": "1748482617",
+  "messageSecret": "m89zgiRGbTrCGNtTuTD+av9aSmpRzS70fJbuzNYQuyc=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQe9XmsQqa/1K6bU5hFHMtiYyps="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555192366364@s.whatsapp.net",
+    "fromMe": true,
+    "id": "465D31493EB719152CC0EA7C44306D36"
+  },
+  "message": {
+    "conversation": "Estamos fechados no momento! Nosso horario de atendimento é de Segunda a sexta-feira das 9:00h as 12:00h e das 13:30h até as 18:00h. Assim que retornarmos responderemos sua mensagem!\nImobiliaria Nascimento agradecemos seu contato 🥰",
+    "messageContextInfo": {
+      "messageSecret": "Us6l8oCt4VIppoze9v/VAU9x6mF1sf/Rt4rUTT9RJ04="
+    }
+  },
+  "messageTimestamp": "1748478381",
+  "status": "READ",
+  "messageC2STimestamp": "1748478382",
+  "userReceipt": [
+    {
+      "userJid": "555192366364@s.whatsapp.net",
+      "receiptTimestamp": "1748478383",
+      "readTimestamp": "1748478391",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "Us6l8oCt4VIppoze9v/VAU9x6mF1sf/Rt4rUTT9RJ04="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555192366364@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A4254C4DA9260085220"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Oi! Me interessei pela Loja comercial de 374m2 em Canoas. Tá disponível?",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "Nascimento Imóveis - Canoas",
+          "body": "🔥Negócios fortes escolhem pontos estratégicos. A sala comercial ideal para seu negócio!\n\nChegou a oportunidade de posicionar sua empresa em um ponto de alta visibilidade com uma excelente estrutura.\n\n📍Localização privilegiada a 5 minutos do ParkShopping Canoas\n🏢Espaço versátil, perfeita para lojas de grande porte, academias, clínicas, estúdios ou showrooms\n🚗Com vagas de estacionamento frontais\n💥Alto fluxo, visibilidade e presença garantida\n\n📲 Entre em contato com a Nascimento Imóveis e agende sua visita.",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/496445479_1102246128612419_3591909641250848501_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=111&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=7fdQdFr1-8EQ7kNvwHcIgLr&_nc_oc=AdkNzVu7_t7RKK5-hsOa8RpKQCSSkXA_Ys_RE4xp56AM1uq2h_cCLtviyN7bosUh2cKOyedMI29cO9SYDkQRchxw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=dKLijP25MuGgJlRyuMJDtg&oh=00_AfLGi7qcrWJzMUfMjO4YyZw-yuOc_uaZGmQt-yy0QLM5-g&oe=683D75A4",
+          "mediaUrl": "https://www.facebook.com/nascimentoimoveiscanoas/videos/1005749418346904/",
+          "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/7QCEUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAGgcAigAYkZCTUQwYTAwMGE4MDAxMDAwMDAwMDIwMDAwOGIwMjAwMDBiNDAyMDAwMGQ5MDIwMDAwNGMwMzAwMDA0NDA0MDAwMDY0MDQwMDAwOTkwNDAwMDBjMjA0MDAwMGU3MDUwMDAwAP/bAIQABQYGCwgLCwsLCw0LCwsNDg4NDQ4ODw0ODg4NDxAQEBEREBAQEA8TEhMPEBETFBQTERMWFhYTFhUVFhkWGRYWEgEFBQUKBwoICQkICwgKCAsKCgkJCgoMCQoJCgkMDQsKCwsKCw0MCwsICwsMDAwNDQwMDQoLCg0MDQ0MExQTExOc/8IAEQgAWQAyAwEiAAIRAQMRAf/EAEsAAAEFAQEBAAAAAAAAAAAAAAIAAwQFBgcBCBAAAQIDBgQFBAIDAAAAAAAAAQARAiExAxBBUWFxBCCBkRKhsdHwBRMiweHxIzBy/9oADAMBAAIAAwAAAAHZIPW/SJpJTHo7qUjnPQuepbs5L6UAWn0n3HDXrfMupct9818+tjAcLQ8K9Ivo9Z+3JqbynpvMi8v8Js22XeX30ClIunbCsfNqXitRlzCyk10hlzn63dW61rPGgE5GbvKNJw2/BUmK7VmOmQITOntapef/2gAIAQEAAQUCvHIyYpirMJkyZALwrwqzhTJkyhTLiuJg4cWFoLSEBNdCUIivqTrgw0Ke6FcVxI4eC1420tjZ8XawHguI+/ZuvEhaL6lHFbR2XDeGKCxsV9NhisD9xfdQRsIIjb8V4IrEKzghhFwKBVtwJiNhwrxJ7nQKaQg8FqeR1Co5xvyitpyf/9oACAEDAAE/AWTJrn5TH+FMfnX9XyxpojHBAzDxZvgjomuiHIcb/wD/2gAIAQIAAT8BdOnTpkyATXCzL9LmVEIYo6nw7YoFPdDFyDC//9oACAEBAAY/Av8AUd+c8w8TkmgAcleKH2I5oIsi3dfKtymPoBmUDFE7YYdk8MZCEWOKF38LwCkAfKZX5j/GDV2RAjHjYitPmiigcRBgXHI5E1aQNiQNrvxADzPLFEDjRTPbmiQyIHfHmi2UHXmP/Kh35P/aAAgBAQABPyG83xQudO07La7I5w7fyjtmQHn5IHn5J+fknbpVgbkLwAN0oTCJcqyyGae4WJoQ4xBBmDeGReqzyEpekLVAsdCyBLxZyZmQJnYBAozCk3vEIHPVNOmJ0TFJMGt8tZogMqljI9KUknX07xj1Rm6vS5v/ABugYeaVB3yp1RAvSBYdKTOc2QxGCEZwIhphy5GLuiILSwmgE2wdGmstB7rq7D3uTnGM7kSFKJnnMYw3AvT+0B3yTyktgM5ZEp7yGmmRJanNEGAahKSylcdC4sm6+6CWzFhsl+hRzO6dPcEKeUjJGCSaexFHT3/I1VWyjf8A/9oADAMBAAIAAwAAABDTn8tYH4NZk0mYLSmmOWPFUgv/2gAIAQMAAT8QvDXA8jhmjcUBgSVnmnQc02bF5rFXnROzXVN0DAO7C9Ryl5oUCZFfo9b/AP/aAAgBAgABPxC9bOUA0WI/H6QBBY4XATMGfB6XcjMuMpKNTunTr91//9oACAEBAAE/EMaonVPqh0JXVAijpmaGf3vdanc900QGPkOLDQarLvjdZL2r5wWALoEjsnJr9AhFC6pxB/hBHzZI0ocJAHA5EVCPiBgJYECjhiOokpF6ZMncJID3TWGbEl3gyO8IkeTPMcDWBYdLszLMmVeQddrjZLbUFh0MdAqWAMf7wxdqRhb9GssSJI4CBRCmUGDJo6hyAjKFwsztEpUT6gDq7eFY4wX+kpVTKSU04+sFW5JPEszrBl2oWhU13WTkwIAs5YrHj3BtEg71MEZ8RSkmIgdJIT0pkgJlxOCD7Ts1JQNU2POK3o9BqiQ1rMDBQABmQ5CgQIU8lHqhckoaPyMV3Z63HoFropAS/mIh0ORX7A+6cnfZoVXztV26jf8A/9k=",
+          "sourceType": "ad",
+          "sourceId": "120225986206310234",
+          "sourceUrl": "https://fb.me/5EPig2lGd",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "AffErUGAhRB5A1d_l-6Gl_4ctOFDWWDMEKLGAf0OB-cJlCDIVveOVh2Y_FgxJ70c1Rha3dB61_GHyvSjIvd4nz8b_hvI562hrPSmH5DOL5u_lj5GA0E3aEcwRQACyLuAUpcCbCh9sA"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "messageContextInfo": {
+      "messageSecret": "Gv2VhUCKg2C8lSoL9GoyvGE9BcPm54cU8HJs4/4fWmA="
+    }
+  },
+  "messageTimestamp": "1748478377",
+  "messageSecret": "Gv2VhUCKg2C8lSoL9GoyvGE9BcPm54cU8HJs4/4fWmA=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQfKFkM0Jo35RCs8z3Y0cbHgLvY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 43
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "555195482352@s.whatsapp.net",
+    "fromMe": false,
+    "id": "5CC3478EE3A40006A8853B7408EA5BF3"
+  },
+  "message": {
+    "conversation": "100m2 no máximo",
+    "messageContextInfo": {
+      "messageSecret": "+UICIffUYbTNUqEfKWx56YoBdp/pXGmQn0iT42s8Yqg="
+    }
+  },
+  "messageTimestamp": "1748465501",
+  "messageSecret": "+UICIffUYbTNUqEfKWx56YoBdp/pXGmQn0iT42s8Yqg=",
+  "reportingTokenInfo": {
+    "reportingTag": "AQffZv8X26OnrMqNavXm3vRX97A="
+  }
+}>>>>>>>>>>>>>>>>>>> 

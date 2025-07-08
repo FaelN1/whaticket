@@ -1,0 +1,14 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: Geral - Co.
+  Whatsapp Id: 1
+  Criação do arquivo de logs: 14/06/2025 10:07:09
+  Selecionado Data de inicio de importação: 14/06/2025 07:45:00 
+  Selecionado Data final da importação: 14/06/2025 10:05:00 
+   
+Adicionando mensagem para pos processamento:
+  Não é Mensagem de GRUPO >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  Data e hora da mensagem: 14/06/2025 09:27:11
+  Contato da Mensagem : 555185128256@s.whatsapp.net
+  Tipo da mensagem : audioMessage
+  
+   

@@ -1,0 +1,7 @@
+Aguardando conexão para iniciar a importação de mensagens:
+  Whatsapp nome: Con4
+  Whatsapp Id: 40
+  Criação do arquivo de logs: 08/07/2025 16:32:37
+  Selecionado Data de inicio de importação: Invalid date 
+  Selecionado Data final da importação: 04/06/2025 15:44:00 
+   

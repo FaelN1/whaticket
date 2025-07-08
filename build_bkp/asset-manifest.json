@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7fa724f.chunk.css",
+    "main.js": "/static/js/main.93848347.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.525964a0.js",
+    "static/css/2.9b747e4c.chunk.css": "/static/css/2.9b747e4c.chunk.css",
+    "static/js/2.0b008911.chunk.js": "/static/js/2.0b008911.chunk.js",
+    "static/js/3.0ddae188.chunk.js": "/static/js/3.0ddae188.chunk.js",
+    "static/js/4.ec399e75.chunk.js": "/static/js/4.ec399e75.chunk.js",
+    "static/js/5.dd0b2eb5.chunk.js": "/static/js/5.dd0b2eb5.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.d76143bfe3baaee5c78fa291fc49e840.js": "/precache-manifest.d76143bfe3baaee5c78fa291fc49e840.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0b008911.chunk.js.LICENSE.txt": "/static/js/2.0b008911.chunk.js.LICENSE.txt",
+    "static/js/3.0ddae188.chunk.js.LICENSE.txt": "/static/js/3.0ddae188.chunk.js.LICENSE.txt",
+    "static/js/4.ec399e75.chunk.js.LICENSE.txt": "/static/js/4.ec399e75.chunk.js.LICENSE.txt",
+    "static/js/5.dd0b2eb5.chunk.js.LICENSE.txt": "/static/js/5.dd0b2eb5.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/favicon.ico": "/static/media/favicon.ac093f4f.ico",
+    "static/media/instagram.79535458.png": "/static/media/instagram.79535458.png",
+    "static/media/logo-black.18a5a61c.png": "/static/media/logo-black.18a5a61c.png",
+    "static/media/logo.18a5a61c.png": "/static/media/logo.18a5a61c.png",
+    "static/media/n8n.55dcf941.png": "/static/media/n8n.55dcf941.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.9fd5812c.mp3",
+    "static/media/upload.c42899bb.gif": "/static/media/upload.c42899bb.gif",
+    "static/media/wa-background-dark.4c52474f.png": "/static/media/wa-background-dark.4c52474f.png",
+    "static/media/wa-background.cd00123e.png": "/static/media/wa-background.cd00123e.png",
+    "static/media/webhook.20ba7126.png": "/static/media/webhook.20ba7126.png",
+    "static/media/whatsapp.7f02d15e.png": "/static/media/whatsapp.7f02d15e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.525964a0.js",
+    "static/css/2.9b747e4c.chunk.css",
+    "static/js/2.0b008911.chunk.js",
+    "static/css/main.e7fa724f.chunk.css",
+    "static/js/main.93848347.chunk.js"
+  ]
+}
